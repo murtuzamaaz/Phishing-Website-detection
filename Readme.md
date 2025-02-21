@@ -1,6 +1,3 @@
-I've added icons and improved readability. Let me know if you need more changes! 🚀🔍  
-
----
 
 # 🔐 Phishing Website Detection  
 
@@ -65,8 +62,9 @@ streamlit run app.py
 ## 🖼 App UI Screenshots  
 Here are some images showcasing the final application interface:  
 ![Picture1](https://github.com/user-attachments/assets/d8b3bd91-bdfa-4861-8dae-c1228bae9b30)
-
-
+![Picture2](https://github.com/user-attachments/assets/9031db85-58b2-4ae3-8a69-e9ac702b9918)
+![Picture3](https://github.com/user-attachments/assets/84cf7830-93da-4c83-a351-ec5fe3a924bf)
+![Picture4](https://github.com/user-attachments/assets/5aaaa3e4-ba54-4da7-ae91-eaa04e9d8133)
 
 ## 🤝 Contributing  
 Feel free to fork this repository and contribute! If you find any issues, open a pull request or create an issue.  
